@@ -32,5 +32,5 @@ Please follow these steps to setup the workflow:
 6. Create cloud pubsub topic 
 7. Test run this workflow. It should create new Cloud Function in the project.
 
-# Reference
+# Reference 
 - Google Cloud Functions example: https://github.com/GoogleCloudPlatform/python-docs-samples/blob/master/functions/helloworld/main.py
