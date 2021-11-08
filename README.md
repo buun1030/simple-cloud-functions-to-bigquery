@@ -20,7 +20,7 @@ Enter runtime      : # Runtime, for python, use `python37` or `python38`
 Enter topic name   : # A name of Cloud Pub/Sub topic for deploying pub/sub trigger function
 ```
 
-# Workflow
+# Workflow 
 We added GitHub Action workflow to auto-deploy this function when there is a merge to master branch.
 
 Please follow these steps to setup the workflow:
